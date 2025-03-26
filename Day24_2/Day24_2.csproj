@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="NumpyDotNet" Version="0.9.86.6" />
+    <PackageReference Include="NumpyDotNet" Version="0.9.87.1" />
 	<PackageReference Include="MathNet.Spatial" Version="0.6.0" />
   </ItemGroup>
 
